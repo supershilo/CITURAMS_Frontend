@@ -1,0 +1,18 @@
+
+  .wildcat{
+    width: 100%; /* Set the image width to 100% of the container */
+    max-width: none; /* Remove max-width for the image */
+    position: absolute; /* Position the image absolutely within the container */
+    left: -40%; /* Align the image to the left */
+    top: -10%;
+  }
+  .fade-in {
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .fade-out {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  

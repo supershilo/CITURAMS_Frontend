@@ -1,0 +1,52 @@
+/* LoginPage.css */
+.login-page {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .left-side {
+    background-color: #FC3031; /* Blue color */
+    width: 50%;
+    position: relative; /* Add position relative */
+    overflow: hidden; /* Hide overflow content */
+  }
+  
+  .right-side {
+    background-color: #ffffff; /* Red color */
+    width: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column; /* Align children in a column */
+  }
+
+  .logo-container {
+    margin-bottom: 100px; /* Add spacing between logo and form */
+    margin-top: 50px; /* Ensure the logo is at the top */
+    justify-content: center;
+  }
+  
+  .logo {
+    max-width: 100%;
+    max-height: 90px; /* Adjust as needed */
+  }
+  
+  .login-form-container {
+    align-items: center;
+    justify-content: center;
+
+  }
+  
+  /* Add styling for your login form elements if needed */
+  form {
+    /* Add your form styles here */
+  }
+
+  .wildcat-login{
+    width: 100%; 
+    max-width: none; 
+    position: absolute;  
+    top: -10%;
+  }
+
+
+  

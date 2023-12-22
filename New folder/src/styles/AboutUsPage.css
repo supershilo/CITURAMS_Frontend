@@ -1,0 +1,230 @@
+.home {
+  position: absolute;
+  top: 41px;
+  left: 899px;
+  font-size: 24px;
+  line-height: 112.5%;
+  font-weight: 500;
+  color: #000;
+  text-align: left;
+  cursor: pointer;
+}
+.about-us {
+  position: absolute;
+  top: 41px;
+  left: 10px;
+  font-size: 24px;
+  line-height: 112.5%;
+  font-weight: 500;
+  color: #000;
+  text-align: left;
+}
+.our-services {
+  position: absolute;
+  top: 41px;
+  left: 1180px;
+  font-size: 24px;
+  line-height: 112.5%;
+  font-weight: 500;
+  color: #000;
+  text-align: left;
+}
+.about-us1 {
+  position: absolute;
+  top: 172px;
+  left: 611px;
+  font-size: 64px;
+  line-height: 30%;
+  color: #fc3031;
+  text-align: left;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.were-a-focused {
+  position: absolute;
+  top: 254px;
+  left: 289px;
+  font-size: 18px;
+  line-height: 112.5%;
+  display: inline-block;
+  width: 932px;
+  height: 67px;
+}
+.logo-rams-1-icon {
+  position: absolute;
+  top: 26px;
+  left: 88px;
+  width: 145px;
+  height: 58px;
+  object-fit: cover;
+}
+.adrian-rectangle{
+  position: absolute;
+  top: 445px;
+  left: 75px;
+  border-radius: 50px 0px 50px 0px;
+  background-color: #ededed;
+  width: 289px;
+  height: 421px;
+}
+.mezon-rectangle{
+  position: absolute;
+  top: 445px;
+  left: 743px;
+  border-radius: 50px 0px 50px 0px;
+  background-color: #ededed;
+  width: 289px;
+  height: 421px;
+}
+.cielo-rectangle {
+  position: absolute;
+  top: 446px;
+  left: 409px;
+  border-radius: 50px 0px 50px 0px;
+  background-color: #ededed;
+  width: 289px;
+  height: 421px;
+}
+.eloisa-rectangle {
+  position: absolute;
+  top: 446px;
+  left: 1077px;
+  border-radius: 50px 0px 50px 0px;
+  background-color: #ededed;
+  width: 289px;
+  height: 421px;
+}
+.cielo-alegam {
+  position: absolute;
+  top: 619px;
+  left: 485px;
+  font-size: 20px;
+  line-height: 112.5%;
+  font-weight: 600;
+}
+.elosia-j-espao {
+  position: absolute;
+  top: 619px;
+  left: 1141px;
+  font-size: 20px;
+  line-height: 112.5%;
+  font-weight: 600;
+}
+.full-stack-developer {
+  position: absolute;
+  top: 647px;
+  left: 473px;
+  line-height: 112.5%;
+}
+.full-stack-developer1 {
+  position: absolute;
+  top: 647px;
+  left: 1141px;
+  line-height: 112.5%;
+}
+.adi-icon {
+  position: absolute;
+  top: 476px;
+  left: 154px;
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+}
+.mezon-icon {
+  position: absolute;
+  top: 476px;
+  left: 822px;
+  width: 130px;
+  height: 130px;
+}
+.cielo-icon {
+  position: absolute;
+  top: 476px;
+  left: 488px;
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+}
+.eloisa-icon {
+  position: absolute;
+  top: 476px;
+  left: 1156px;
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+}
+.adrian-john-surigao {
+  position: absolute;
+  top: 619px;
+  left: 115px;
+  font-size: 20px;
+  line-height: 112.5%;
+  font-weight: 600;
+}
+.mezon-sotto {
+  position: absolute;
+  top: 619px;
+  left: 825px;
+  font-size: 20px;
+  line-height: 112.5%;
+  font-weight: 600;
+}
+.full-stack-developer2 {
+  position: absolute;
+  top: 647px;
+  left: 139px;
+  line-height: 112.5%;
+}
+.full-stack-developer3 {
+  position: absolute;
+  top: 647px;
+  left: 807px;
+  line-height: 112.5%;
+}
+.que-sera-sera {
+  position: absolute;
+  top: 691px;
+  left: 443px;
+  line-height: 112.5%;
+  display: inline-block;
+  width: 220px;
+  height: 112px;
+}
+.sleep-well-live {
+  position: absolute;
+  top: 691px;
+  left: 1111px;
+  line-height: 112.5%;
+  display: inline-block;
+  width: 220px;
+  height: 112px;
+}
+.stay-hydrated {
+  position: absolute;
+  top: 691px;
+  left: 109px;
+  line-height: 112.5%;
+  display: inline-block;
+  width: 220px;
+  height: 112px;
+}
+.stay-hydrated1 {
+  position: absolute;
+  top: 691px;
+  left: 777px;
+  line-height: 112.5%;
+  display: inline-block;
+  width: 220px;
+  height: 112px;
+}
+.about-us-page {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  color: #45474b;
+  font-family: Poppins;
+}
+
